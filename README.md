@@ -1,6 +1,7 @@
 # NFT-Dashboard
 
-![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/113338413/233805306-d2aecb12-b431-433f-8cf6-e00a0698b4d1.gif)
+![233805306-d2aecb12-b431-433f-8cf6-e00a0698b4d1](https://user-images.githubusercontent.com/50295329/236269092-7d5e77a2-9937-4c2e-b208-36360e17c008.gif)
+
 
 NTF Price Visualization
 
